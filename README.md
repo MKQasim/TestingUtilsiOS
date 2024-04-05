@@ -1,7 +1,5 @@
 # TestingUtilsiOS
 # Developer Guide for Code Refactoring and Testing in Cross-Platform Development 
-# TestingUtilsJava
-# Refactored and tested code for Java development 
 # Muhammad Qasim Mubeen
 - **Email**: kamqasim1@gmail.com
 - **Phone**: +4915216414689

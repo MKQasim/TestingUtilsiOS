@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtils-master.dia",
+    "emit-module-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtils-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtils-master-emit-module.dia",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtils-master.swiftdeps"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtils/CommonUtils.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtils~partial.swiftmodule"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtils/CommonUtilsSolutions.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/CommonUtilsSolutions~partial.swiftmodule"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtils/ContentView.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtils/Item.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtils/TestingUtilsApp.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtils.build/Objects-normal/arm64/TestingUtilsApp~partial.swiftmodule"
+  }
+}

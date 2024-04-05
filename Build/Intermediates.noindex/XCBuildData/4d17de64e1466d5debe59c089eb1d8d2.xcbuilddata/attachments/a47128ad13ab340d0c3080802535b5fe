@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingUtilsTests-master.dia",
+    "emit-module-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingUtilsTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingUtilsTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingUtilsTests-master.swiftdeps"
+  },
+  "/Users/test/Documents/Development/iOS_Dev/TestingUtils/TestingUtilsTests/TestingCommonUtilsTest.swift" : {
+    "const-values" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.swiftconstvalues",
+    "dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.d",
+    "diagnostics" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.dia",
+    "index-unit-output-path" : "/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.o",
+    "llvm-bc" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.bc",
+    "object" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.o",
+    "swift-dependencies" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest.swiftdeps",
+    "swiftmodule" : "/Users/test/Documents/Development/iOS_Dev/TestingUtils/Build/Intermediates.noindex/TestingUtils.build/Debug/TestingUtilsTests.build/Objects-normal/arm64/TestingCommonUtilsTest~partial.swiftmodule"
+  }
+}
